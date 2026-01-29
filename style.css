@@ -1,0 +1,47 @@
+body{
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;                 /* interior alb */
+    -webkit-text-stroke: 1px black;
+}
+
+p{
+    font-size: 25px;
+}
+
+.amicii {
+    background-color: gray;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid white;
+}
+
+.kebap {
+    background-color: gray;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid white;
+}
+
+.moft {
+    background-color: gray;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid white;
+}
+
+.title {
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+
+}
+
+.pozas {
+    position: fixed;
+    display:block;
+    margin: auto;
+    width: 300px;
+}
